@@ -24,7 +24,7 @@ Users can ask natural questions like:
 - **Vector Database** – FAISS or IBM-compatible vector store
 - **IBM Cloud Lite** – Hosting and deployment
 - **LangGraph** – framework
-- **architecture** - ReAct
+- **ReAct** - Architecture
 - **model used** - granite-3-3-8b-instruct
 
 ---
