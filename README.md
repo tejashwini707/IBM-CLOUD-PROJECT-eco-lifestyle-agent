@@ -18,7 +18,7 @@ Users can ask natural questions like:
 ---
 
 ##  ✅ **MODEL: granite-3-3-8b-instruct**
-
+---
 ## 🔧 Technologies Used
 
 - **Watsonx.ai** – LLM-powered response generation
@@ -55,7 +55,22 @@ Users can ask natural questions like:
 ### Prerequisites
 - IBM Cloud account
 - Watsonx.ai access & API keys
-  
+
+---
 ## Results
 
+**ECO LIFESTYLE AGENT PAGE**
 <img width="2879" height="1497" alt="agent home screen 1" src="https://github.com/user-attachments/assets/91664c17-cdac-45a7-9fdc-e9f3e26086e5" />
+
+<img width="2455" height="1349" alt="agent home screen 2" src="https://github.com/user-attachments/assets/3cbe0315-1d69-4793-b323-7618b62d6c76" />
+
+It responses to the user queries effectively:
+<img width="2876" height="1527" alt="agent response 1" src="https://github.com/user-attachments/assets/05ba0aff-ca96-45cb-b30e-d264615357a3" />
+<img width="2879" height="1518" alt="agent response 2" src="https://github.com/user-attachments/assets/aca74b48-a614-491b-a124-1a41f8d41536" />
+<img width="2878" height="1529" alt="agent response 3" src="https://github.com/user-attachments/assets/a8204e56-1d20-4d81-b830-1e5f8a64ede7" />
+<img width="2877" height="1523" alt="agent response 5" src="https://github.com/user-attachments/assets/b3f3047d-1d70-48fe-9eb7-a2da09382811" />
+
+**VECTOR INDEX(FOR RAG)**
+<img width="2880" height="1520" alt="knowledge base" src="https://github.com/user-attachments/assets/ae600e6e-7612-454f-9b1a-5a09ab137009" />
+
+
