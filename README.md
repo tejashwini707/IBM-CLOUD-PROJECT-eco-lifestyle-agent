@@ -17,6 +17,8 @@ Users can ask natural questions like:
 
 ---
 
+##  ✅ **MODEL: granite-3-3-8b-instruct**
+
 ## 🔧 Technologies Used
 
 - **Watsonx.ai** – LLM-powered response generation
@@ -25,7 +27,6 @@ Users can ask natural questions like:
 - **IBM Cloud Lite** – Hosting and deployment
 - **LangGraph** – framework
 - **ReAct** - Architecture
-- **model used** - granite-3-3-8b-instruct
 
 ---
 
@@ -54,4 +55,5 @@ Users can ask natural questions like:
 ### Prerequisites
 - IBM Cloud account
 - Watsonx.ai access & API keys
-  
+## Results
+
