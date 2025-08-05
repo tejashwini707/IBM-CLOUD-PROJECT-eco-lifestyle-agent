@@ -55,5 +55,7 @@ Users can ask natural questions like:
 ### Prerequisites
 - IBM Cloud account
 - Watsonx.ai access & API keys
+  
 ## Results
 
+<img width="2879" height="1497" alt="agent home screen 1" src="https://github.com/user-attachments/assets/91664c17-cdac-45a7-9fdc-e9f3e26086e5" />
