@@ -78,4 +78,15 @@ It responses to the user queries effectively:
 **VECTOR INDEX(FOR RAG)**
 <img width="2880" height="1520" alt="knowledge base" src="https://github.com/user-attachments/assets/ae600e6e-7612-454f-9b1a-5a09ab137009" />
 
+---
+
+## **Conclusion**
+
+ The Eco Lifestyle Agent presents a forward-thinking solution to a pressing global issue—
+ sustainable living. By combining RAG architecture with Watsonx.ai’s advanced language 
+ capabilities and IBM Cloud services, this solution offers practical, real-time, and personalized eco 
+ advice to users. It lowers the barrier to sustainable choices and fosters an environmentally 
+ responsible mindset.
+
+
 
